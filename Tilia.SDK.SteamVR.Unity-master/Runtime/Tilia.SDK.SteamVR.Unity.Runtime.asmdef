@@ -1,0 +1,19 @@
+{
+    "name": "Tilia.SDK.SteamVR.Unity.Runtime",
+    "references": [
+        "Zinnia.Runtime",
+        "SteamVR",
+        "SteamVR_Actions"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Android"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
